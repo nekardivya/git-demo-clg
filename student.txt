@@ -1,0 +1,4 @@
+strudent Registration _Feature
+Name : shree
+course : Devops
+status : Active
